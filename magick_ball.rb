@@ -18,7 +18,7 @@ class Magick_ball
       "Reply hazy, try again"
     ]
 
-      @user_answers = @answers.clone, []
+      @user_answers = []
 
       @random_answers = @answers.sample
 
