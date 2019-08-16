@@ -1,3 +1,8 @@
+# This assigment made a lot more sense after struggling through the lunch lady app. The part that I struggled
+# with on this assignment was getting the user answers to clear properly. We got there in the end. Any feedback 
+# is always appreciated. Thank you!!
+
+
 require "colorize"
 require "pry"
 
